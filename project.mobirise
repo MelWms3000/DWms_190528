@@ -424,6 +424,9 @@
               "@media (max-width: 992px)": {
                 "text-align": "center"
               }
+            },
+            ".mbr-section-title": {
+              "color": "#6278df"
             }
           },
           "_name": "form2",
